@@ -1,0 +1,64 @@
+STAGE_NUMBER,STARTING_AT_KM,NAME,INITIAL_ALTITUDE,AVERAGE_SLOPE,DISTANCE,CATEGORY
+1,68,Côte de Cray,0,1.6,7.1,4
+1,103.5,Côte de Buttertubs,0,4.5,6.8,3
+1,129.5,Côte de Griton Moor,0,3,6.6,3
+2,47,Côte de Blubberhouses,0,1.8,6.1,4
+2,85,Côte d'Oxenhope Moor,0,3.1,6.4,3
+2,112.5,VC Côte de Ripponden,0,1.3,8.6,3
+2,119.5,Côte de Greetland,0,1.6,6.7,3
+2,143.5,Côte de Holme Moss,0,4.7,7,2
+2,167,Côte de Midhopestones,0,2.5,6.1,3
+2,175,Côte de Bradfield,0,1,7.4,4
+2,182,Côte d'Oughtibridge,0,1.5,9.1,3
+2,196,VC Côte de Jenkin Road,0,0.8,10.8,4
+4,34,Côte de Campagnette,0,1,6.5,4
+4,117.5,Mont Noir,0,1.3,5.7,4
+6,107.5,Côte de Coucy-le-Château-Auffrique,0,0.9,6.2,4
+6,157,Côte de Roucy,0,1.5,6.2,4
+7,217.5,Côte de Maron,0,3.2,5,4
+7,229,Côte de Boufflers,0,1.3,7.9,4
+8,142,Col de la Croix des Moinats,891,7.6,6,2
+8,150,Col de Grosse Pierre,901,3,7.5,2
+8,161,Côte de La Mauselaine,0,1.8,10.3,3
+9,11.5,Col de la Schlucht,1140,8.6,4.5,2
+9,41,Col du Wettstein,0,7.7,4.1,3
+9,70,Côte des Cinq Châteaux,0,4.5,6.1,3
+9,86,Côte de Gueberschwihr,559,4.1,7.9,2
+9,120,Le Markstein,1183,10.8,5.4,1
+9,127,Grand Ballon,0,1.4,8.6,3
+10,30.5,Col du Firstplan,722,8.3,5.4,2
+10,54.5,Petit Ballon,1163,9.3,8.1,1
+10,71.5,Col du Platzerwasel,1193,7.1,8.4,1
+10,103.5,Col d'Oderen,884,6.7,6.1,2
+10,125.5,Col des Croix,0,3.2,6.2,3
+10,143.5,Col des Chevrères,914,3.5,9.5,1
+10,161.5,La Planche des Belles Filles,1035,5.9,8.5,1
+11,141,Côte de Rogna,0,7.6,4.9,3
+11,148.5,Côte de Choux,0,1.7,6.5,3
+11,152.5,Côte de Désertin,0,3.1,5.2,4
+11,168,Côte d'Échallon,0,3,6.6,3
+12,58.5,Col de Brouilly,0,1.7,5.1,4
+12,83,Côte du Saule-d'Oingt,0,3.8,4.5,3
+12,138,Col des Brosses,0,15.3,3.3,3
+12,164,Côte de Grammond,0,9.8,2.9,4
+13,24,Col de la Croix de Montvieux,0,8,4.1,3
+13,152,Col de Palaquit (D57-D512),1154,14.1,6.1,1
+13,197.5,Montée de Chamrousse,1730,18.2,7.3,H
+14,82,Col du Lautaret,2058,34,3.9,1
+14,132.5,Col d'Izoard - Souvenir Henri Desgrange,2360,19,6,H
+14,177,Montée de Risoul,1855,12.6,6.9,1
+16,25,Côte de Fanjeaux,0,2.4,4.9,4
+16,71.5,Côte de Pamiers,0,2.5,5.4,4
+16,155,Col de Portet-d'Aspet,1069,5.4,6.9,2
+16,176.5,Col des Ares,0,6,5.2,3
+16,216,Port de Balès,1755,11.7,7.7,H
+17,57.5,Col du Portillon,1292,8.3,7.1,1
+17,82,Col de Peyresourde,1569,13.2,7,1
+17,102.5,Col de Val Louron-Azet,1580,7.4,8.3,1
+17,124.5,Montée de Saint-Lary Pla d'Adet,1680,10.2,8.3,H
+18,28,Côte de Bénéjacq,0,2.6,6.7,3
+18,56,Côte de Loucrup,0,2,7,3
+18,95.5,Col du Tourmalet - Souvenir Jacques Goddet,2115,17.1,7.3,H
+18,145.5,Montée du Hautacam,1520,13.6,7.8,H
+19,195.5,Côte de Monbazillac,0,1.3,7.6,4
+21,31,Côte de Briis-sous-Forges,0,1,2,4
