@@ -10,7 +10,7 @@ MATCH (r:Race { id: 1 })
 MERGE (s:Stage { name: csvLine.STAGE_START + " / " + csvLine.STAGE_FINISH, number: toInt(csvLine.STAGE_NUMBER), type: csvLine.STAGE_TYPE, date: csvLine.STAGE_DATE, distance: toFloat(csvLine.STAGE_DISTANCE), info: csvLine.STAGE_INFO})
 MERGE (cs: City { name: csvLine.STAGE_START, country: csvLine.STAGE_START_COUNTRY, lat: toFloat(csvLine.STAGE_START_LATITUDE), lon: toFloat(csvLine.STAGE_START_LONGITUDE) })
 MERGE (cf: City { name: csvLine.STAGE_FINISH, country: csvLine.STAGE_FINISH_COUNTRY,  lat: toFloat(csvLine.STAGE_FINISH_LATITUDE), lon: toFloat(csvLine.STAGE_FINISH_LONGITUDE) })
-CREATE (s)-[:IS_A_STAGE_OF]->(r), (s)-[:STARTS_FROM]->(cs), (s)-[:FINISH_AT]->(cf)
+CREATE (s)-[:IS_A_STAGE_OF]->(r), (s)-[:STARTS_FROM]->(cs), (s)-[:FINISHED_AT]->(cf)
 RETURN r,s,cs,cf;
 
 LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/inserpio/tour-de-france-2014/master/tour-de-france-2014-0003-climbs.csv" AS csvLine
